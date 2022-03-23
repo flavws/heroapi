@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+body{
+    background-image: url(https://images.unsplash.com/photo-1545906785-38f53f99e380?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+}
+
+
+.form{
+    display: flex;
+    justify-content: center;
+    color: aliceblue;
+    width: 450px;
+    height: 350px;
+    margin: 300PX auto;
+    font-family: "Roboto", serif;
+    background-color: rgba(0, 0, 0, 0.589);
+    text-align: center;
+    align-items: center;
+}
+
+header{
+    margin: -20px;
+    height: 60px;
+    color: rgb(137, 43, 226);
+    background-color: rgba(0, 0, 0, 0.527);
+    text-align: center;
+    font-family: "Roboto", serif;
+    color: aliceblue;
+}
+
+.button input{
+    border-radius: 5px;
+    text-align: center;
+    background-color: rgba(137, 43, 226, 0.541);
+    color: azure;
+    width: 100px;
+    height: 30px;
+    margin-right: 5px;
+}
